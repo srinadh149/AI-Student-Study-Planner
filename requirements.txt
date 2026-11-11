@@ -3,3 +3,4 @@ langchain
 langgraph
 sentence-transformers
 faiss-cpu
+gunicorn
